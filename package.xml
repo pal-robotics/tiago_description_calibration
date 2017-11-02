@@ -13,4 +13,7 @@
 
   <run_depend>xacro</run_depend>
 
+  <export>
+    <pal_configuration_pkg/>
+  </export>
 </package>
