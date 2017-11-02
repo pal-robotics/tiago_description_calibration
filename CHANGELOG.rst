@@ -2,6 +2,15 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'master' into 'dubnium-devel'
+  # Conflicts:
+  #   package.xml
+* Update package.xml
+* Add the pal_configuration_pkg export in the package.xml
+* Contributors: AleDF, alessandrodifava
+
 0.0.3 (2017-10-31)
 ------------------
 
