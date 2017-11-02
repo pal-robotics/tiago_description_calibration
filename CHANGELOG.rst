@@ -2,8 +2,8 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2017-11-02)
+------------------
 * Merge branch 'master' into 'dubnium-devel'
   # Conflicts:
   #   package.xml
