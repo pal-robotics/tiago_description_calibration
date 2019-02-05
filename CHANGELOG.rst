@@ -2,6 +2,14 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'camera_calib' into 'dubnium-devel'
+  added extrinsic calibration constants file
+  See merge request robots/tiago_description_calibration!2
+* added extrinsic calibration constants file
+* Contributors: Sai Kishor Kothakota, Victor Lopez
+
 0.0.4 (2017-11-02)
 ------------------
 * Merge branch 'master' into 'dubnium-devel'
