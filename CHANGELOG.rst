@@ -2,8 +2,8 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2019-03-22)
+------------------
 * Fix xacro warning
 * Contributors: Victor Lopez
 
