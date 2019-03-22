@@ -2,6 +2,11 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix xacro warning
+* Contributors: Victor Lopez
+
 0.0.5 (2019-02-05)
 ------------------
 * Merge branch 'camera_calib' into 'dubnium-devel'
