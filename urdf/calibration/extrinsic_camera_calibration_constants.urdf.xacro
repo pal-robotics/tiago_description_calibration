@@ -11,14 +11,14 @@
 <robot xmlns:xacro="http://ros.org/wiki/xacro">
 
   <!--File includes-->
-  <xacro:include filename="$(find tiago_description_calibration)/urdf/deg_to_rad.xacro" />
+  <xacro:include filename="$(find tiago_dual_description_calibration)/urdf/deg_to_rad.xacro" />
 
 <xacro:macro name="camera_baseline_constants" params="camera_model" >
   <xacro:if value="${camera_model == 'orbbec-astra'}">
-    <origin xyz="0.0 0.047 0.0" rpy="0 0 0" />
+    <origin xyz="-0.0006 0.0375 -0.015" rpy="0 0 0" />
   </xacro:if>
   <xacro:if value="${camera_model == 'orbbec-astra-pro'}">
-    <origin xyz="0.0 0.047 0.0" rpy="0 0 0" />
+    <origin xyz="-0.0006 0.0375 -0.015" rpy="0 0 0" />
   </xacro:if>
   <xacro:if value="${camera_model == 'asus-xtion'}">
     <origin xyz="0.0 0.049 0.0" rpy="0 0 0" />
