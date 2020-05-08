@@ -2,6 +2,15 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'fix-orbbec-astra' into 'dubnium-devel'
+  Fix orbbec astra baseline
+  See merge request robots/tiago_description_calibration!3
+* Update extrinsic_camera_calibration_constants.urdf.xacro
+* Fix orbbec astra baseline
+* Contributors: Victor Lopez, victor
+
 0.0.6 (2019-03-22)
 ------------------
 * Fix xacro warning
