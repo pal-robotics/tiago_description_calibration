@@ -2,8 +2,8 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.7 (2020-05-08)
+------------------
 * Merge branch 'fix-orbbec-astra' into 'dubnium-devel'
   Fix orbbec astra baseline
   See merge request robots/tiago_description_calibration!3
