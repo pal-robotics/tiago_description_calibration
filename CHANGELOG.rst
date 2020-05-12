@@ -2,6 +2,11 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix baseline between rgb and depth for orbbec camera
+* Contributors: Victor Lopez
+
 0.0.7 (2020-05-08)
 ------------------
 * Merge branch 'fix-orbbec-astra' into 'dubnium-devel'
