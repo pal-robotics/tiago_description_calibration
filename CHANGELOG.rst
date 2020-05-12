@@ -2,8 +2,8 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2020-05-12)
+------------------
 * Fix baseline between rgb and depth for orbbec camera
 * Contributors: Victor Lopez
 
