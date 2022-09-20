@@ -3,9 +3,9 @@
   <name>tiago_description_calibration</name>
   <version>0.0.8</version>
   <description>This package contains the description of the hand-eye calibration of the TIAGO robot.  The files in this package are used also from the tiago_description package.</description>
-  <maintainer email="alessandro.difava@pal-robotics.com">Alessandro Di Fava</maintainer>
   <maintainer email="jordi.pages@pal-robotics.com">Jordi Pages</maintainer>
-  <maintainer email="hilario.tome@pal-robotics.com">Hilario Tome</maintainer>
+  <maintainer email="jordan.palacios@pal-robotics.com">Jordan Palacios</maintainer>
+  <maintainer email="noel.jimenez@pal-robotics.com">Noel Jimenez</maintainer>
   <license>Creative Commons BY-NC-ND 3.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
