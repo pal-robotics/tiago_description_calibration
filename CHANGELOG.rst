@@ -2,8 +2,8 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2022-10-26)
+------------------
 * Merge branch 'update_copyright' into 'humble-devel'
   Update copyright and add license
   See merge request robots/tiago_description_calibration!5
