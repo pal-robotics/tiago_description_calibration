@@ -2,6 +2,19 @@
 Changelog for package tiago_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'update_copyright' into 'humble-devel'
+  Update copyright and add license
+  See merge request robots/tiago_description_calibration!5
+* update copyright and add license
+* Merge branch 'update_maintainers' into 'humble-devel'
+  update maintainers
+  See merge request robots/tiago_description_calibration!4
+* update maintainers
+* package.xml and CMakeLists.txt in ros2 format
+* Contributors: Jordan Palacios, Noel Jimenez
+
 0.0.8 (2020-05-12)
 ------------------
 * Fix baseline between rgb and depth for orbbec camera
